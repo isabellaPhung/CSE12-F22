@@ -1,0 +1,20 @@
+assignment:  Lab 3
+name:        Isabella Phung
+cruzid:      itphung
+
+----------------------------------------
+GRADE BREAKDOWN
+----------------------------------------
+20 / 20 assembles without errors
+20.0 / 20 error check zero and negative heights
+20 / 20 prompts user until a correct input is entered
+20.0 / 20 number of levels match user input
+20.0 / 20 correct asterisks, dollar signs and numbers on each line
+
+
+--------------------
+TOTAL
+
+points earned:   100.0
+lab total:       100
+late hours used: 0
